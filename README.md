@@ -1,5 +1,5 @@
-# 💫 About Me:
-📍 Based in Ottawa/Montreal<br>✉️ Contact me at rolfaddoumie@gmail.com<br> 🖥️ Check out my [Portfolio](https://rolfaddoumie.ca/)<br> 💼 Interning at Alcumus<br>🌐 Co-Director at the uOttawa Software Engineering Students' Association
+#  About Me:
+📍 Based in Ottawa ⇄ Montreal<br>✉️ Contact me at rolfaddoumie@gmail.com<br> 🖥️ Check out my [Portfolio](https://rolfaddoumie.ca/)<br> 💼 Interning at Alcumus<br>🌐 Co-Director at the uOttawa Software Engineering Students' Association
 
 
 ## 🌐 Socials:
@@ -10,5 +10,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RolfAddoumie&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
