@@ -1,7 +1,5 @@
 #  About Me:
 📍 Based in Ottawa ⇄ Montreal<br>✉️ Contact me at rolfaddoumie@gmail.com<br> 🖥️ Check out my [Portfolio](https://rolfaddoumie.ca/)<br> 💼 Interning at Alcumus<br>🌐 Co-Director at the uOttawa Software Engineering Students' Association
-<h1 align="center">Hi, I'm Rolf</h1>
-<h3 align="center">📍 Based in Ottawa ⇄ Montreal🍁</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rolfaddoumie&label=Profile%20views&color=0e75b6&style=flat" alt="rolfaddoumie" /> </p>
 
